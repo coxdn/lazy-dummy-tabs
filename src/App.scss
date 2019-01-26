@@ -1,0 +1,20 @@
+#root {
+	#error {
+		h1 {
+			color: red;
+		}
+
+		pre {
+			font-size: 16px;
+			color: red;
+		}
+	}
+
+	#loader {
+		display: flex;
+
+		div {
+			margin-top: 22px;
+		}
+	}
+}
